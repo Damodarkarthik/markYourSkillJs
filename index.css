@@ -1,0 +1,12 @@
+
+.list-items {
+    list-style-type: none;
+}
+
+.checkbox-input {
+    margin-right: 4px;
+}
+
+.checked {
+    color: green;
+}
